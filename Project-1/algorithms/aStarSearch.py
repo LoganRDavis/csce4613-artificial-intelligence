@@ -77,7 +77,7 @@ class aStarSearch:
 
 	def printResult(self):
 		print ( \
-		"\nUniform Cost Search: \n" \
+		"\nA* Cost Search: \n" \
 		"Num nodes visited: " + str(self.visited) + "\n" + \
 		"Num nodes on path: " + str(len(self.finalPath)) + "\n" + \
 		"Distance (km): " + str(self.distance) + "\n"
