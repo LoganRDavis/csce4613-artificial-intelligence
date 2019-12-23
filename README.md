@@ -3,6 +3,6 @@ Course Description: Introduction to intelligent agents, AI languages, search, fi
 
 Student: Logan Davis
 
-Grade: A
+Grade: B
 
 Taken as Senior in 2019
